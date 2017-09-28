@@ -15,17 +15,22 @@ $lnk.ConsoleColors[0]="#002b36"
 $lnk.ConsoleColors[8]="#073642"
 $lnk.ConsoleColors[2]="#586e75"
 $lnk.ConsoleColors[6]="#657b83"
+# The following is used for command text in powershell:
 $lnk.ConsoleColors[1]="#839496"
 $lnk.ConsoleColors[3]="#93a1a1"
+# The following is used for function/program names at the beginning of a command:
 $lnk.ConsoleColors[7]="#eee8d5"
 $lnk.ConsoleColors[15]="#fdf6e3"
 $lnk.ConsoleColors[14]="#b58900"
 $lnk.ConsoleColors[4]="#cb4b16"
+# The following is used for error text:
 $lnk.ConsoleColors[12]="#dc322f"
 $lnk.ConsoleColors[13]="#d33682"
 $lnk.ConsoleColors[5]="#6c71c4"
+# The following is used for strings in powershell:
 $lnk.ConsoleColors[9]="#268bd2"
 $lnk.ConsoleColors[11]="#2aa198"
+# The following is used for the arrow character before the function call:
 $lnk.ConsoleColors[10]="#859900"
 
 # Set Light/Dark Theme-Specific Colors
